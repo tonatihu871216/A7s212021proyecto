@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A7s212021proyecto</string>
+    <string name="hmatricula">CAPTURA TU MATRICULA</string>
+    <string name="hnombre">CAPTURA TU NOMBRE</string>
+    <string name="hcorreo">CAPTURA TU CORREO</string>
+    <string name="hpromedio">CAPTURA TU PROMEDIO</string>
+    <string name="bgrabar">GRABAR INFO</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dmatricula">Matricula</string>
+    <string name="dcorreo">Correo</string>
+    <string name="dpromedio">Promedio Final</string>
+    <string name="imgusuario">Usuario</string>
+    <string name="imgDatos">Datos</string>
+</resources>
